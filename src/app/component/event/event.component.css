@@ -1,0 +1,19 @@
+.event-wrapper{
+    
+    border: 1px solid red;
+    padding: 20px;
+    display: inline-block;
+    width: 200px;
+    margin: 20px;
+    
+}
+.word{
+    
+   
+    font-weight: 600;
+
+}
+
+.event-wrapper div{
+    margin-bottom: 20px;
+}
